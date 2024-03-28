@@ -20,8 +20,8 @@
   -  Males purchase more fashion items than females do.
 
 **2. Although women purchase fewer fashion items than men do, they nevertheless spend a significant amount of money doing so.**      
-     ## EDA-PLOT Sample:    
-![Model](https://github.com/riangiri/EDA-Customer-Fashion/blob/main/treemap.png?raw=true)    
+  -  EDA-PLOT Sample:    
+![Model](https://github.com/riangiri/EDA-Customer-Fashion/blob/main/treemap.png?raw=true)          
 
 **3.  There was no discernible relationship between the rating column and prior purchases.**    
 
