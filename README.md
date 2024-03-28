@@ -17,7 +17,8 @@
 **1. Considering how customers purchase fashion items:**    
 **1. Compared to women (female), men (male gender) have a tendency to use discount coupons.**    
   -  For Female Gender (Female): Usually disregard or fail to use coupon coupons while making purchases of clothing.    
-  -  Males purchase more fashion items than females do.    
+  -  Males purchase more fashion items than females do.
+
 **2. Although women purchase fewer fashion items than men do, they nevertheless spend a significant amount of money doing so.**      
      ## EDA-PLOT Sample:    
 ![Model](https://github.com/riangiri/EDA-Customer-Fashion/blob/main/treemap.png?raw=true)    
