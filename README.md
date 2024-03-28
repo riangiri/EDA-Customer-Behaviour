@@ -13,6 +13,7 @@
 **4. The most widely used payment methods and total income from payment methods**    
 
 ## Conclusion       
-**1.**    
+**1.**
+**2.![Model](https://github.com/riangiri/EDA-Customer-Fashion/blob/main/treemap.png?raw=true)**
 
 
